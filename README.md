@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Rafaela</h1>
 
 <p align="center">
-Backend Developer • Cybersecurity Enthusiast
+Backend Developer • Tech Finance • Cybersecurity Enthusiast
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Degree:** <Your Degree>
-- 📍 **Location:** <São Paulo, SP>
-- 💼 **Current Role:** <Student / Intern / Software Developer>
-- 🌱 **Currently Learning:** <Technologies or Topics>
-- 🎯 **Career Goal:** <Backend Development / Cybersecurity / Software Engineering>
+- 🎓 **Degree:** Computer Science
+- 📍 **Location:** <São Paulo, SP
+- 💼 **Current Role:** Network Support
+- 🌱 **Currently Learning:** Spring Boot
 
 ---
 
@@ -39,7 +38,8 @@ Backend Developer • Cybersecurity Enthusiast
 - Docker
 - Linux
 - Network Computer
-- IntelliJ IDEA
+- FIX Protocol
+
 
 ---
 
