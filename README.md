@@ -17,53 +17,21 @@ Backend Developer • Tech Finance • Cybersecurity Enthusiast
 
 ## 🚀 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Languages                    ### Databases
 
-### Languages
-
-- Java
-- Python
+- Java                          - MySQL
+- Python                        - PostgreSQL
 - Golang
 - C++
 
-</td>
+### Frameworks                  ### Tools
 
-<td width="50%" valign="top">
-
-### Databases
-
-- MySQL
-- PostgreSQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Frameworks
-
-- Spring Boot
-- React
-
-</td>
-
-<td width="50%" valign="top">
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Linux
-- Computer Networking
-- FIX Protocol
-
-</td>
-</tr>
-</table>
+- Spring Boot                   - Git
+- React                         - GitHub
+                                - Docker
+                                - Linux
+                                - Computer Networking
+                                - FIX Protocol
 
 ---
 
