@@ -1,51 +1,47 @@
-<h1 align="center">Hi, I'm Rafaela</h1>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
-Backend Developer • Tech Finance • Cybersecurity Enthusiast
-</p>
+<div align="center">
 
----
+<div style="display:inline-block; vertical-align:top; margin-right:80px; text-align:left;">
 
-## 👨‍💻 About Me
+<h3>Languages</h3>
 
-- 🎓 Degree: Computer Science
-- 📍 Location: São Paulo, SP
-- 💼 Current Role: Network Support
-- 🌱 Currently Learning: Spring Boot
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>Golang</li>
+  <li>C++</li>
+</ul>
 
----
+<h3>Frameworks</h3>
 
-## 🚀 Tech Stack
+<ul>
+  <li>Spring Boot</li>
+  <li>React</li>
+</ul>
 
-### Languages                    ### Databases
+</div>
 
-- Java                          - MySQL
-- Python                        - PostgreSQL
-- Golang
-- C++
+<div style="display:inline-block; vertical-align:top; text-align:left;">
 
-### Frameworks                  ### Tools
+<h3>Databases</h3>
 
-- Spring Boot                   - Git
-- React                         - GitHub
-                                - Docker
-                                - Linux
-                                - Computer Networking
-                                - FIX Protocol
+<ul>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+</ul>
 
----
+<h3>Tools</h3>
 
-## 🎯 Goals
+<ul>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>Docker</li>
+  <li>Linux</li>
+  <li>Computer Networking</li>
+  <li>FIX Protocol</li>
+</ul>
 
-- [ ] Build a professional portfolio
-- [ ] Publish new projects
-- [ ] Master Spring Boot
-- [ ] Learn Docker
-- [ ] Contribute to Open Source
+</div>
 
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/amaralrafa/
----
+</div>
