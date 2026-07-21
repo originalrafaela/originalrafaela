@@ -6,40 +6,64 @@ Backend Developer • Tech Finance • Cybersecurity Enthusiast
 
 ---
 
-<h1 align="center"> 👨‍💻 About Me </h1>
+## 👨‍💻 About Me
 
-- 🎓 **Degree:** Computer Science
-- 📍 **Location:** São Paulo, SP
-- 💼 **Current Role:** Network Support
-- 🌱 **Currently Learning:** Spring Boot
+- 🎓 Degree: Computer Science
+- 📍 Location: São Paulo, SP
+- 💼 Current Role: Network Support
+- 🌱 Currently Learning: Spring Boot
 
 ---
 
-<h1 align="center"> 🚀 Tech Stack </h1>
+## 🚀 Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Languages
+
 - Java
 - Python
 - Golang
 - C++
-- 
-### Frameworks
-- Spring Boot
-- React
-- <Other>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Databases
+
 - MySQL
 - PostgreSQL
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Frameworks
+
+- Spring Boot
+- React
+
+</td>
+
+<td width="50%" valign="top">
+
 ### Tools
+
 - Git
 - GitHub
 - Docker
 - Linux
-- Network Computer
+- Computer Networking
 - FIX Protocol
 
+</td>
+</tr>
+</table>
 
 ---
 
