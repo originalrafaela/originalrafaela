@@ -6,7 +6,7 @@ Backend Developer • Tech Finance • Cybersecurity Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+<h1 align="center"> 👨‍💻 About Me </h1>
 
 - 🎓 **Degree:** Computer Science
 - 📍 **Location:** São Paulo, SP
@@ -15,7 +15,7 @@ Backend Developer • Tech Finance • Cybersecurity Enthusiast
 
 ---
 
-## 🚀 Tech Stack
+<h1 align="center"> 🚀 Tech Stack </h1>
 
 ### Languages
 - Java
