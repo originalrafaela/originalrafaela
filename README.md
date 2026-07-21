@@ -9,7 +9,7 @@ Backend Developer • Tech Finance • Cybersecurity Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 **Degree:** Computer Science
-- 📍 **Location:** <São Paulo, SP
+- 📍 **Location:** São Paulo, SP
 - 💼 **Current Role:** Network Support
 - 🌱 **Currently Learning:** Spring Boot
 
