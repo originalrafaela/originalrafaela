@@ -17,8 +17,8 @@ Backend Developer • Tech Finance • Cybersecurity Enthusiast
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<pre>
-<h3> Languages </h3>                     Tools
+<pre align="center">
+<b>Languages</b>                     <b>Tools</b>
 
 Java                          Git
 Python                        GitHub
@@ -28,7 +28,7 @@ C++                           Linux
                               FIX Protocol
 
 
-Frameworks                    Databases
+<b>Frameworks</b>                   <b>Databases</b>
 
 Spring Boot                   MySQL
 React                         PostgreSQL
